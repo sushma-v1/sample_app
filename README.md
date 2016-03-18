@@ -5,7 +5,11 @@ This is the first application for
 by [Michael Hartl](http://michaelhartl.com/).
 
 The application includes the following features >
+
 1. Create/Edit user accounts
+
 2. Create/Delete microposts
+
 3. Follow/Unfollow users
-3. Receive feeds from followed users
+
+4. Receive feeds from followed users
